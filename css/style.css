@@ -1,0 +1,19 @@
+h1{
+    font-size: 30px;
+    font-family: monospace;
+}
+.ada{
+    color: rgb(78, 78, 78)
+}
+a{
+    color: rgb(46, 175, 255);
+    text-decoration: none;
+    font-family: serif;
+}
+p{
+    font-family: monospace;
+
+}
+.diferente{
+    font-family: inherit;
+}
